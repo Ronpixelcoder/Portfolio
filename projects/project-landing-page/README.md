@@ -11,6 +11,3 @@ A responsive landing page built for a fictional tech startup. Designed to highli
 - Hand-coded the entire frontend
 - Ensured cross-browser compatibility and mobile responsiveness
 
-##  Screenshots
-
-[!](./screenshots/)
