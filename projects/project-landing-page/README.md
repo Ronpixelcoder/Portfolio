@@ -2,7 +2,7 @@ Landing Page for Startup
 
 A responsive landing page built for a fictional tech startup. Designed to highlight the product, collect leads, and boost conversions.
 
-## 🔧 Tech Stack
+## Tech Stack
 - HTML5, CSS3
 - JavaScript (vanilla)
 - Responsive design using Flexbox and media queries
@@ -11,4 +11,6 @@ A responsive landing page built for a fictional tech startup. Designed to highli
 - Hand-coded the entire frontend
 - Ensured cross-browser compatibility and mobile responsiveness
 
+##  Screenshots
 
+[!](./screenshots/)
